@@ -40,7 +40,7 @@
 
 
 <!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=coderoshan18093&" alt="amankumarandro" /></p> -->
-<a align="left" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=coderoshan18093&" alt="amankumarandro"/><img align="right" src="https://github-readme-stats.vercel.app/api?username=coderoshan18093&show_icons=true&locale=en" alt="amankumarandro" /></a>
+<a align="left" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=I-RoshanKumar&" alt="I-RoshanKumar"/><img align="right" src="https://github-readme-stats.vercel.app/api?username=I-RoshanKumar&show_icons=true&locale=en" alt="I-RoshanKumar" /></a>
 <!-- <a><img align="right" src="https://github-readme-stats.vercel.app/api?username=amankumarandro&theme=algolia&show_icons=true&locale=en" alt="amankumarandro" /></a>
  -->
 <!--  <a> <img align='right' src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="150" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></a> -->
