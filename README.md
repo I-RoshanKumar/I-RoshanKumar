@@ -11,22 +11,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderoshan18093&label=Profile%20views&color=0e75b6&style=flat" alt="coderoshan19093" /> </p>
 
-<p align="left"> <a href="https://twitter.com/amankumarandro" target="blank"><img src="https://img.shields.io/twitter/follow/amankumarandro?logo=twitter&style=for-the-badge" alt="amankumarandro" /></a> </p>
+<p align="left"> <a href="https://twitter.com/I_RoshanKumar" target="blank"><img src="https://img.shields.io/twitter/follow/I_RoshanKumar?logo=twitter&style=for-the-badge" alt="I_RoshanKumar" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Data Analysis, Data Science, Web Development.**
+- 🌱 I’m currently learning **Machine Learning, Data Science, Web Development.**
 
-- 💬 Ask me about **Python, C++, Data Structure And Algorithm**
+- 💬 Ask me about **Python, C, Design Analysis And Algorithm , Data Structure And Algorithm**
 
-- 📫 How to reach me **You can DM me on amankumar8675@gmail.com**
+- 📫 How to reach me **You can DM me on kumarroshan1809@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/amankumarandro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amankumarandro" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aman-kumar-671a19244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-kumar-671a19244" height="30" width="40" /></a>
-<a href="https://instagram.com/andro.aman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andro.aman" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/amankumar8675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amankumar8675" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/amankumlwrq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amankumlwrq" height="30" width="40" /></a>
+<a href="https://twitter.com/I_RoshanKumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="I_RoshanKumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/roshan-kumar-914089222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan-kumar-914089222" height="30" width="40" /></a>
+<a href="https://instagram.com/smartboyroshan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smartboyroshan_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/I_RoshanKumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="I_RoshanKumar" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/asansolroshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="asansolroshan" height="30" width="40" /></a>
 <p align="center" margin="0" >
 </p>
 
