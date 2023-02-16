@@ -4,9 +4,9 @@
 <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front+End+Developer" alt="Typing SVG" /></a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h3 align="center">I am Roshan Kumar, hailing from West Bengal . I am currently pursuing a degree in Computer Science and Engineering at the University of Engineering and Management in Jaipur. With a passion for technology, I am eager to learn and develop my skills in this field.</h3>
-<p align="center">
+<!--<p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?color=45ffaa&size=40&width=900&height=80&lines=Welcome-to-The-World-Of-Roshan-Kumar"/>
- </p>
+ </p>-->
    
 <a height="200" href="https://github.com/DenverCoder1/readme-typing-svg"><img margin-top="500px" src="https://readme-typing-svg.herokuapp.com?lines=Eat;Code;Sleep;Repeat&width=75&height=45"></a></p>
 
