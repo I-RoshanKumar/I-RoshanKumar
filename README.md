@@ -12,7 +12,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" />
 
 <h3 align="center">
-    I am Roshan Kumar, hailing from West Bengal. I am pursuing a Computer Science and Engineering degree at the University of Engineering and Management in Jaipur. With a passion for technology, I am eager to learn and develop my skills in this field.
+    I am Roshan Kumar, hailing from West Bengal. Completed a Computer Science and Engineering degree from the University of Engineering and Management in Jaipur. With a passion for technology, I am eager to learn and develop my skills in this field.
 </h3>
 
 <p align="left">
