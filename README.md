@@ -17,7 +17,7 @@
 
 ### 👨🏻‍💻 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" />
+<img align="right" alt="Advanced Tech Concept" width="350" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 I am a Software Engineer specializing in scalable backend systems, currently working as an Associate Software Engineer at Cotality. I have proven experience in optimizing database architectures, automating enterprise workflows, and securing production environments. 
 
@@ -62,5 +62,24 @@ I am a Software Engineer specializing in scalable backend systems, currently wor
   </a>
   <a href="https://github.com/l-Roshan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/I_Roshank/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/asansolroshan">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://www.hackerrank.com/I_RoshanKumar">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+</div>
+
+---
+
+### 🏆 Badges & Achievements
+
+<div align="center">
+  <a href="https://holopin.io/@coderroshan">
+    <img src="https://holopin.me/coderroshan" alt="Holopin Badges" />
   </a>
 </div>
